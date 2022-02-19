@@ -1,7 +1,7 @@
 <?php
 
   $score = 396; //PUT YOUR DESIRED SCORE HERE
-  $gamepage = "https://www.gameeapp.com/game/u0yXP5o-??????#tgShareScoreUrl=tg%3A%2F%2Fshare_game_score%3Fhash%?????"; //PUT GAME URL HERE
+  $gamepage = "https://prizes.gamee.com/game-bot/zxyM4Kb-411fb43d6a23f05a578f70755e4f35e7cdb306b7#tgShareScoreUrl=tg%3A%2F%2Fshare_game_score%3Fhash%3Du5gX28imlZEStKZB9ZNrvNJ39kOUkx9vMpoiXZA5CTQp1tpnCWyJzqi5D0L6_Mx2"; //PUT GAME URL HERE
 
 
 /**
